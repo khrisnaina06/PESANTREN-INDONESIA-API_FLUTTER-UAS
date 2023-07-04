@@ -10,7 +10,7 @@ A new Flutter project.
 
 ### Tampilan Halaman list quote
 
-![img1](list/list.png)
+![img1](asset/list.png)
 
 
 ```Dart
