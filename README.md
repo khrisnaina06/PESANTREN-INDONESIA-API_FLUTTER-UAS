@@ -224,6 +224,7 @@ class RandomQuote extends StatelessWidget {
 12. Widget ini dapat digunakan untuk menampilkan sebuah kutipan acak dari API dan memberikan opsi untuk melihat daftar kutipan dengan menekan tombol "Tampilkan".
 
 ---
+---
 
 ```Dart
 import "randomquote.dart";
