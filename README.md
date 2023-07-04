@@ -116,7 +116,7 @@ class ListQuote extends StatelessWidget {
 
 ---
 
-### Tampilan halaman random quote
+### Tampilan halaman list pondok pesantren se-indonesia
 
 ![img1](asset/list.png)
 
