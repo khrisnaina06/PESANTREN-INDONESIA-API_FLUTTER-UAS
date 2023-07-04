@@ -97,7 +97,7 @@ class ListQuote extends StatelessWidget {
 }
 ```
 
-## `ListQuote` adalah sebuah widget Flutter yang menampilkan daftar kutipan yang diambil dari sebuah API. Berikut penjelasan singkat mengenai implementasinya:
+#### `ListQuote` adalah sebuah widget Flutter yang menampilkan daftar kutipan yang diambil dari sebuah API. Berikut penjelasan singkat mengenai implementasinya:
 
 1. Kelas ini mengimpor dependensi yang diperlukan dari framework Flutter dan paket `http` untuk melakukan permintaan HTTP, serta paket `dart:convert` untuk mendecode JSON.
 2. Kelas `ListQuote` merupakan turunan dari `StatelessWidget`, yang menandakan bahwa tidak ada state yang dapat berubah di dalamnya.
@@ -210,7 +210,7 @@ class RandomQuote extends StatelessWidget {
 
 ```
 
-## `RandomQuote` adalah sebuah widget Flutter yang menampilkan sebuah kutipan acak dari sebuah API. Berikut penjelasan singkat mengenai implementasinya:
+#### `RandomQuote` adalah sebuah widget Flutter yang menampilkan sebuah kutipan acak dari sebuah API. Berikut penjelasan singkat mengenai implementasinya:
 
 1. Kelas ini mengimpor dependensi yang diperlukan dari framework Flutter dan paket `http`, serta mengimpor widget `ListQuote` yang telah dibuat sebelumnya, dan paket `dart:convert` untuk mendecode JSON.
 2. Kelas `RandomQuote` merupakan turunan dari `StatelessWidget`.
@@ -251,7 +251,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-## `MyApp` adalah kelas utama yang menjadi root dari aplikasi Flutter. Berikut adalah penjelasan singkat mengenai implementasinya:
+#### `MyApp` adalah kelas utama yang menjadi root dari aplikasi Flutter. Berikut adalah penjelasan singkat mengenai implementasinya:
 
 1. Di dalam fungsi `main()`, aplikasi dijalankan dengan menjalankan widget `MyApp`.
 2. Kelas `MyApp` merupakan turunan dari `StatelessWidget`.
